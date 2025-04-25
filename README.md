@@ -1,3 +1,5 @@
+> [!NOTE]  
+> This fork just serves the code with the Floodgate patch provided [here](https://github.com/GeyserMC/Floodgate-Modded/issues/83#issuecomment-1734346417). We won't actually modify the original code in any way. **All issues/PRs will be ignored.**
 # FabricProxy-Lite
 
 Same as [FabricProxy](https://github.com/OKTW-Network/FabricProxy) but only support velocity and using Fabric-API handle
